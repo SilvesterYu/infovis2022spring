@@ -1,4 +1,7 @@
 # InfoVis Spring 2022 Final Project Gallery
+## Project Gallery
+https://hogwild.github.io/infovis2022spring/
+
 ## About the 5 minutes demo
 The demo is to show others how to use your visualization. You may simply open your webpage and tell people what functions it has, e.g., how to high light an object, and what information a chart view shows. Usually, you don't need to prepare slides for it.
 
